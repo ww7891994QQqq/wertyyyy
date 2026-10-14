@@ -1,0 +1,6 @@
+{
+  "name": "WordLock — Inglizcha-O‘zbekcha Jonli Fon va Lug‘at Loyihasi",
+  "description": "WordLock Android ilovasi simulyatori, kunlik inglizcha-o‘zbekcha so‘zlar bazasi (words.csv) boshqaruvchisi va to‘liq Kotlin loyiha kodi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
